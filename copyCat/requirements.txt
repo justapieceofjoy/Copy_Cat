@@ -1,0 +1,6 @@
+   Flask
+   nltk
+   spacy
+   sentence-transformers
+   python-Levenshtein
+   matplotlib
