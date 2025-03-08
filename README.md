@@ -1,4 +1,4 @@
-# copyCat - Futuristic Plagiarism Checker
+# Copy Cat - Plagiarism Checker
 
 Copy Cat is a plagiarism detection system that uses semantic and character-level comparison techniques to detect copied or paraphrased text. It features a sleek, neon-themed web interface built using Flask templates and standard HTML/CSS. The backend leverages modern NLP tools such as Sentence Transformers, spaCy, and Levenshtein distance to provide detailed similarity metrics and highlight suspected plagiarized segments.
 
@@ -65,8 +65,8 @@ testData/
 1. **Clone or Download the Project:**
 
    ```bash
-   git clone https://github.com/yourusername/copyCat.git
-   cd copyCat
+   git clone https://github.com/justapieceofjoy/Copy_Cat.git
+   cd Copy_Cat/copyCat
    ```
 
 2. **Create and Activate a Virtual Environment (Optional but Recommended):**
