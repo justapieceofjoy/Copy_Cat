@@ -27,6 +27,10 @@ Copy Cat is a plagiarism detection system that uses semantic and character-level
   - Dark, neon-themed design with purple accents.
   - Clean, minimalistic, and responsive interface optimized for both desktop and mobile.
 
+## Copy Cat Web App Recording
+
+Please check: https://github.com/justapieceofjoy/Copy_Cat/blob/main/Copy_Cat_Web_App_Recording.mp4
+
 ## Project Structure
 
 ```
